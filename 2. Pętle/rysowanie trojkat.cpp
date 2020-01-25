@@ -5,7 +5,7 @@ using namespace std;
 int main() {
 
     int n, m;
-    cout << "Podaj iloœc wierszy trojkata: ";
+    cout << "Podaj wysokosc trojkata prostokatnego: ";
     cin >> n;
 
     cout << "\n";

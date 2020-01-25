@@ -7,7 +7,7 @@ int main() {
     int n, m;
     cout << "Podaj iloœc wierszy: ";
     cin >> n;
-    cout << "Podaj iloœc gwiazdek w wierszu: ";
+    cout << "Podaj iloœc kolumn ";
     cin >> m;
 
     cout << "\n";
